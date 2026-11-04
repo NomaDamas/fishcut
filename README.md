@@ -2,7 +2,7 @@
 
 **AI agents draft shorts. You finish them.**
 
-fishcut is a local shorts editor built for working with Claude Code and Codex. Give an agent a topic, develop a draft with a reusable template, then review and finish the video in the editor.
+fishcut is a local shorts editor for coding agents such as Claude Code, Codex, Cursor, Gemini, and Pi. Agents work through its CLI and skills, so any agent that can run commands and read skills can use it. Give an agent a topic, develop a draft with a reusable template, then review and finish the video in the editor.
 
 [Website](https://fishcut.nomadamas.org/) | [English website](https://fishcut.nomadamas.org/en/)
 
@@ -27,7 +27,7 @@ More examples and editor screens are on the [website](https://fishcut.nomadamas.
 
 ## The workflow
 
-1. **Choose a topic and a visual template.** Ask Claude Code or Codex for a product demo, a list of tips, a comparison, or an explainer.
+1. **Choose a topic and a visual template.** Ask your coding agent for a product demo, a list of tips, a comparison, or an explainer.
 2. **Review the script, then build the draft.** The agent gathers sources and prepares narration, caption timing, visuals, motion, and audio. Paid voice generation requires a separate approval.
 3. **Finish it in the local editor.** Adjust text, scene timing, media, sound effects, and BGM. Agent edits through the CLI appear in the open editor, so you can keep working on the same project.
 4. **Render, review, and choose where it goes.** Export a vertical MP4, check the picture and sound, then review the destination and upload settings. Publishing requires your confirmation.
